@@ -1,0 +1,17 @@
+{
+    "exchanges_used": ["bitfinex", "binance"],
+
+    "bitfinex": {
+
+          "pub_key_crypt" : "--ENCRYPTED-- in crypto.py",
+          "priv_key_crypt" : "--ENCRYPTED-- in crypto.py-"
+
+        },
+
+   "binance": {
+
+          "pub_key_crypt" : "--ENCRYPTED-- in crypto.py",
+          "priv_key_crypt" : "--ENCRYPTED-- in crypto.py"
+
+        }
+}
