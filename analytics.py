@@ -1,6 +1,6 @@
 ############
 # By Michael Bjeski
-# With motivation from B.L.O.C, finest in the crypto MOONING Industry
+# With motivation from Satoshi, finest in the crypto MOONING Industry
 # Start: 04.10.2018
 # Get coin-pair information from cryptocurrency exchanges and save that information into a csv or excel file
 # while using pandas; ccxt-library, cryptocompare-api
